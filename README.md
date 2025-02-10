@@ -54,10 +54,9 @@
 
 ---
 
-
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/krushal-hirpara" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/krushal-hirpara-2a36842a8/" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70">
   </a>
   <a href="https://github.com/KRUSHAL2956" title="GitHub">
