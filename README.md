@@ -15,8 +15,7 @@
 ![Krushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&show_icons=true&theme=dark)
 
 ## 🚀 My Recent Projects:
-- **[Project Name](GitHub Repo Link)** – Short description of your project.
-- **[Project Name](GitHub Repo Link)** – Short description of your project.
+- **[AI Resume Builder]** – I Am Make That Project For My Collage Hackathone.
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushal-hirpara)  
