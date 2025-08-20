@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=CSE+Student+%40+Parul+University;Cybersecurity+Enthusiast;DSA+%26+Development+Learner;Exploring+Security+Tools+%26+Repos)](https://github.com/KRUSHAL2956)
 
-🎓 **CSE Student @ Parul University | Semester 5 | CGPA: 8.02**  
+🎓 **Computer Science Enthusiast | Semester 5 | CGPA: 8.02**  
 🔐 **Cybersecurity Enthusiast | Currently Learning DSA & Development**  
 🛡️ **Exploring GitHub Security Tools & Repositories**
 
@@ -60,7 +60,7 @@
 - 🛡️ **Security Tools Exploration**
 - 🔍 **GitHub Security Repositories Research**
 - 🐧 **Kali Linux Penetration Testing**
-- 🔒 **Security Best Practices**
+
 
 ---
 
