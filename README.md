@@ -64,17 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRUSHAL2956&theme=dark" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="http://www.linkedin.com/in/krushal-hirpara-29y05" title="LinkedIn">
