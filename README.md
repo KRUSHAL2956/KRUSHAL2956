@@ -1,40 +1,65 @@
-# Hi there, I'm Krushal Hirpara! 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=CSE+Student+%40+Parul+University;Cybersecurity+Enthusiast;DSA+%26+Development+Learner;Exploring+Security+Tools+%26+Repos)](https://github.com/KRUSHAL2956)
+# Hi, I'm <span style="background: linear-gradient(45deg, #00D9FF, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Krushal Hirpara</span> 👋
 
-🎓 **Computer Science Enthusiast | Semester 5 | CGPA: 8.02**  
-🔐 **Software Development & Cybersecurity Enthusiast | Currently Learning DSA & Development**  
-🛡️ **Exploring GitHub Security Tools & Repositories**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Google+Student+Ambassador;Full+Stack+Developer;Programming+Enthusiast)](https://github.com/KRUSHAL2956)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRUSHAL2956&color=green&style=for-the-badge" alt="Profile Views">
-</p>
+**🎓 B.Tech CSE @ Parul University | CGPA: 8.02 | 5th Semester**
 
----
+**🌟 Google Student Ambassador | 💻 Web Developer | 🚀 Programming Enthusiast**
 
-## 🚀 Currently Learning:
-- 📊 **Data Structures & Algorithms (DSA)**
-- 💻 **Web Development**
-- 🔒 **Exploring Cybersecurity Tools & Techniques**
-- 🐍 **Advanced Python Programming**
-- 🗄️ **Database Management (MongoDB, MySQL)**
+</div>
 
----
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+- 🌟 **Google Student Ambassador** at Parul University
+- 🔭 Currently working on **Web Development & Programming Projects**
+- 🌱 Learning **Advanced DSA, Full Stack Development & Modern Frameworks**
+- 👯 Looking to collaborate on **Open Source Web Projects**
+- 💬 Ask me about **Web Development, Python, JavaScript, or Programming**
+- ⚡ Fun fact: I love managing tech events and earning professional certifications!
+- 🎯 **2x Smart India Hackathon** participant as Team Leader
 
----
+## 🛠️ Technologies Implemented
 
-## 🔐 Cybersecurity Focus:
-- 🛡️ **Security Tools Exploration**
-- 🔍 **GitHub Security Repositories Research**
-- 🐧 **Kali Linux Penetration Testing**
-- 🔒 **Vulnerability Assessment & Analysis**
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="C" title="C" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" title="Linux" />
+<img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" title="Bash" />
+<img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" title="PowerShell" />
 
-# 📊 GitHub Stats:
+</div>
+
+## 🏆 Achievements & Experience
+
+- 🌟 **Google Student Ambassador** - Leading tech initiatives on campus
+- 🥇 **IBM Web Development Intern** - Completed virtual internship program
+- 📜 **3 Professional Certifications** - Smart Coder, Web Dev Fundamentals, Computer Networks
+- 🎯 **2x Smart India Hackathon** participant as Team Leader
+- 📊 **Event Management** - Community building and tech events
+- 🎓 **Academic Excellence** - 8.02 CGPA in B.Tech CSE
+
+## 💻 Development Focus
+
+- 🌐 **Full Stack Web Development** with modern technologies
+- 📱 **Responsive Design** & User Experience
+- 🚀 **API Development** & Integration
+- 📊 **Database Management** (MySQL, DBMS) & Optimization
+- 💼 **Microsoft Office** (PowerPoint, Excel) & Documentation
+- 🔧 **Problem Solving** with Data Structures & Algorithms
+- ⚡ **Command Line Interface** (Terminal, CMD) & System Administration
+
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
@@ -49,12 +74,44 @@
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krushal_hirpara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-hirpara) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:krushalhirpara.connect@gmail.com)
+## 🎯 Featured Projects
+
+### 🌤️ [Dynamic Weather Dashboard](https://krushal-weather-dashboard.vercel.app/)
+A responsive weather application with real-time data, interactive maps, and 5-day forecasts.
+
+**Tech Stack:** JavaScript, HTML, CSS, Leaflet.js, OpenWeatherMap API, Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-weather-dashboard.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/dynamic-weather-dashboard)
+
+### 🌐 [Portfolio Website](https://krushal-portfolio.vercel.app/)
+A modern, responsive portfolio showcasing my journey and achievements.
+
+**Features:** Dark/Light mode, SEO optimized, Fully responsive, Interactive animations
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/Portfolio)
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://krushal-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-hirpara-29y05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushalhirpara.connect@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>🔒 "Security is not a product, but a process" - Bruce Schneier</i>
-</p>
+<div align="center">
 
+*"Security is not a product, but a process"* - **Bruce Schneier**
+
+⭐ **Feel free to explore my repositories and don't forget to star them if you find something interesting!**
+
+**💼 Open to:** Web Development Internships | Programming Projects | Technical Collaborations
+
+![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
