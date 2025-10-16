@@ -16,20 +16,15 @@
 
 </div>
 
-## 👨💻 About Me
+## 🚀 About Me
 
-I'm a passionate **B.Tech Computer Science Engineering** student at Parul University with a strong **8.02 CGPA**, currently in my 5th semester. As a **Google Student Ambassador**, I lead tech initiatives and foster innovation within the student community.
-
-My journey spans **web development**, **programming**, and **cybersecurity**, with hands-on experience from my **IBM Web Development Internship** and **Smart Interviews DSA Training**. I've participated as a **Team Leader** in the **Smart India Hackathon twice**, demonstrating my leadership and problem-solving abilities.
-
-**What drives me:**
-- 🚀 Building scalable web applications with modern technologies
-- 🎯 Solving complex problems through Data Structures & Algorithms
-- 🌟 Leading tech events and mentoring fellow students
-- 🔐 Exploring cybersecurity and ethical hacking with Kali Linux
-- 📚 Continuous learning and earning professional certifications
-
-**Currently focused on:** Full-stack development, API integration, and contributing to open-source projects while maintaining academic excellence.
+- 🌟 **Google Student Ambassador** at Parul University
+- 🔭 Currently working on **Web Development & Programming Projects**
+- 🌱 Learning **Advanced DSA, Full Stack Development & Modern Frameworks**
+- 👯 Looking to collaborate on **Open Source Web Projects**
+- 💬 Ask me about **Web Development, Python, JavaScript, or Programming**
+- ⚡ Fun fact: I love managing tech events and earning professional certifications!
+- 🎯 **2x Smart India Hackathon** participant as Team Leader
 
 ## 🛠️ Technologies Implemented
 
