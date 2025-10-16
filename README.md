@@ -15,7 +15,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
-## 🚀 About Me
+**🚀 About Me**
 
 - 🌟 **Google Student Ambassador** at Parul University
 - 🔭 Currently working on **Web Development & Programming Projects**
