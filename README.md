@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm <span style="background: linear-gradient(45deg, #00D9FF, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Krushal Hirpara</span> 👋
+# Hi, I'm **`Krushal Hirpara`** 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Google+Student+Ambassador;Full+Stack+Developer;Programming+Enthusiast)](https://github.com/KRUSHAL2956)
 
@@ -10,6 +10,11 @@
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
 ## 🚀 About Me
 
 - 🌟 **Google Student Ambassador** at Parul University
@@ -35,6 +40,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" title="VS Code" />
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL" />
 <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" title="Linux" />
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" height="50" alt="Kali Linux" title="Kali Linux" />
 <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" title="Bash" />
 <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" title="PowerShell" />
 
@@ -111,7 +117,5 @@ A modern, responsive portfolio showcasing my journey and achievements.
 ⭐ **Feel free to explore my repositories and don't forget to star them if you find something interesting!**
 
 **💼 Open to:** Web Development Internships | Programming Projects | Technical Collaborations
-
-![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
