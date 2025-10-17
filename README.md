@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Google+Student+Ambassador;Full+Stack+Developer;Programming+Enthusiast)](https://github.com/KRUSHAL2956)
 
-**🎓 B.Tech CSE @ Parul University | CGPA: 8.02 | 5th Semester**
+**B.Tech CSE @ Parul University | CGPA: 8.02 | 5th Semester**
 
-**🌟 Google Student Ambassador | 💻 Web Developer | 🚀 Programming Enthusiast**
+**Google Student Ambassador | Web Developer | Programming Enthusiast**
 
 </div>
 
@@ -16,17 +16,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 🌟 **Google Student Ambassador** at Parul University
-- 🔭 Currently working on **Web Development & Programming Projects**
-- 🌱 Learning **Advanced DSA, Full Stack Development & Modern Frameworks**
-- 👯 Looking to collaborate on **Open Source Web Projects**
-- 💬 Ask me about **Web Development, Python, JavaScript, or Programming**
-- ⚡ Fun fact: I love managing tech events and earning professional certifications!
-- 🎯 **2x Smart India Hackathon** participant as Team Leader
+- **Google Student Ambassador** at Parul University
+- Currently working on **Web Development & Programming Projects**
+- Learning **Advanced DSA, Full Stack Development & Modern Frameworks**
+- Looking to collaborate on **Open Source Web Projects**
+- Ask me about **Web Development, Python, JavaScript, or Programming**
+- Fun fact: I love managing tech events and earning professional certifications!
+- **2x Smart India Hackathon** participant as Team Leader
 
-## 🛠️ Technologies Implemented
+## Technologies & Skills
 
 <div align="center">
 
@@ -47,26 +47,26 @@
 
 </div>
 
-## 🏆 Achievements & Experience
+## Achievements & Experience
 
-- 🌟 **Google Student Ambassador** - Leading tech initiatives on campus
-- 🥇 **IBM Web Development Intern** - Completed virtual internship program
-- 📜 **3 Professional Certifications** - Smart Coder, Web Dev Fundamentals, Computer Networks
-- 🎯 **2x Smart India Hackathon** participant as Team Leader
-- 📊 **Event Management** - Community building and tech events
-- 🎓 **Academic Excellence** - 8.02 CGPA in B.Tech CSE
+- **Google Student Ambassador** - Leading tech initiatives on campus
+- **IBM Web Development Intern** - Completed virtual internship program
+- **3 Professional Certifications** - Smart Coder, Web Dev Fundamentals, Computer Networks
+- **2x Smart India Hackathon** participant as Team Leader
+- **Event Management** - Community building and tech events
+- **Academic Excellence** - 8.02 CGPA in B.Tech CSE
 
-## 💻 Development Focus
+## Development Focus
 
-- 🌐 **Full Stack Web Development** with modern technologies
-- 📱 **Responsive Design** & User Experience
-- 🚀 **API Development** & Integration
-- 📊 **Database Management** (MySQL, DBMS) & Optimization
-- 💼 **Microsoft Office** (PowerPoint, Excel) & Documentation
-- 🔧 **Problem Solving** with Data Structures & Algorithms
-- ⚡ **Command Line Interface** (Terminal, CMD) & System Administration
+- **Full Stack Web Development** with modern technologies
+- **Responsive Design** & User Experience
+- **API Development** & Integration
+- **Database Management** (MySQL, DBMS) & Optimization
+- **Microsoft Office** (PowerPoint, Excel) & Documentation
+- **Problem Solving** with Data Structures & Algorithms
+- **Command Line Interface** (Terminal, CMD) & System Administration
 
-## 📊 GitHub Stats:
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
@@ -81,9 +81,9 @@
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🌤️ [Dynamic Weather Dashboard](https://krushal-weather-dashboard.vercel.app/)
+### [Dynamic Weather Dashboard](https://krushal-weather-dashboard.vercel.app/)
 A responsive weather application with real-time data, interactive maps, and 5-day forecasts.
 
 **Tech Stack:** JavaScript, HTML, CSS, Leaflet.js, OpenWeatherMap API, Vercel
@@ -91,7 +91,7 @@ A responsive weather application with real-time data, interactive maps, and 5-da
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-weather-dashboard.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/dynamic-weather-dashboard)
 
-### 🌐 [Portfolio Website](https://krushal-portfolio.vercel.app/)
+### [Portfolio Website](https://krushal-portfolio.vercel.app/)
 A modern, responsive portfolio showcasing my journey and achievements.
 
 **Features:** Dark/Light mode, SEO optimized, Fully responsive, Interactive animations
@@ -99,7 +99,7 @@ A modern, responsive portfolio showcasing my journey and achievements.
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/Portfolio)
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -115,8 +115,8 @@ A modern, responsive portfolio showcasing my journey and achievements.
 
 *"Security is not a product, but a process"* - **Bruce Schneier**
 
-⭐ **Feel free to explore my repositories and don't forget to star them if you find something interesting!**
+**Feel free to explore my repositories and don't forget to star them if you find something interesting!**
 
-**💼 Open to:** Web Development Internships | Programming Projects | Technical Collaborations
+**Open to:** Web Development Internships | Programming Projects | Technical Collaborations
 
 </div>
