@@ -1,126 +1,119 @@
 <div align="center">
 
-# Hi, I'm **`Krushal Hirpara`** 🤝
+# Krushal Hirpara 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Google+Student+Ambassador;Full+Stack+Developer;Linux+%26+DSA+Enthusiast;Cybersecurity+Learner)](https://github.com/KRUSHAL2956)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Web+Developer;Problem+Solver)](https://github.com/KRUSHAL2956)
 
-**B.Tech CSE @ Parul University | CGPA: 8.02 | 5th Semester**
+Software Developer focused on building scalable, secure, and maintainable web applications.
 
-**Google Student Ambassador | Full Stack Developer | Linux & DSA Enthusiast**
+📍 Surat, Gujarat, India
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=KRUSHAL2956&color=00d9ff&style=flat)
 
 </div>
 
 ---
 
-## 📋 About Me
+## About
 
-- **Google Student Ambassador** at Parul University  
-- **Primary Focus:** Full Stack Web Development (Frontend + Backend)  
-- Strong interest in **Linux, Bash Scripting & Data Structures**  
-- Learning **Web Security (XSS, CSRF, SQL Injection)** as secondary skill  
-- Currently building **Full Stack Projects & Web Security Tools**  
-- I enjoy **leading communities, hosting workshops & guiding juniors**  
-- Ask me about **JavaScript, Web Dev, Linux, DSA, or Python**  
+I am a software developer with hands-on experience in **full-stack web development**, **secure application design**, and **problem-solving using data structures and algorithms**. I enjoy working on real-world projects that emphasize performance, security, and clean architecture.
 
 ---
 
-## 💼 Technologies & Skills
+## Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,python,java,c,git,github,vscode,mysql,linux,bash,powershell" height="50" />
+**Programming Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" height="45"/>
 
-<img src="https://www.kali.org/images/kali-dragon-icon.svg" height="50" />
+**Web Development**  
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=dark" height="45"/>
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="45"/>
+
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark" height="45"/>
 
 </div>
 
 ---
 
-## 🎯 Achievements & Experience
+## Experience
 
-- **Google Student Ambassador** — Leading & mentoring 70+ students  
-- **Cyber Security Intern** — Learning web vulnerabilities  
-- **IBM Web Development Intern** — Completed SkillsBuild internship  
-- **Smart Interviews – Smart Coder (DSA)** — Bronze Certificate  
-- **3 Professional Certifications** — DSA, Computer Networks, Web Dev  
-- Hosted **Gemini AI Workshop** at Parul University as Google Student Ambassador
+**Cyber Security Intern** — *Elevate Labs*  
+Oct 2025 – Dec 2025  
+- Performed web application security testing and vulnerability analysis  
+- Recognized as **Top Performer** for consistent performance  
 
----
+**Frontend Development Intern** — *Edunet Foundation X IBM*  
+Aug 2025 – Oct 2025  
+- Built responsive UI components with focus on usability and performance  
 
-## 🎓 Currently Learning
-
-- **Advanced Full Stack Development** — Deepening expertise in modern frameworks
-- **Backend Architecture** — Scalable server-side development patterns
-- **Database Optimization** — Performance tuning and query optimization
-- **API Design & Development** — RESTful and GraphQL APIs
-- **DevOps Basics** — Deployment, CI/CD, and containerization
-- **Cyber Security** — Web vulnerabilities, penetration testing, and security best practices
+**Google Student Ambassador** — *Google*  
+Aug 2025 – Jan 2026  
+- Led technical workshops and student engagement initiatives  
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
-- Building modern, responsive web applications  
-- Working with APIs, databases, and backend logic  
-- Creating clean UI/UX with scalable architecture  
-- Exploring Linux, system tools & automation  
-- Interested in web security fundamentals  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KRUSHAL2956&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRUSHAL2956&theme=dark&hide_border=false&layout=compact" />
-</p>
+- Build modern, responsive **full-stack web applications**
+- Design and develop **RESTful APIs** and backend logic
+- Work with **databases**, authentication, and secure workflows
+- Create clean **UI/UX** with scalable architecture
+- Explore **Linux systems**, automation, and development tooling
+- Practice **web security fundamentals** and secure coding
 
 ---
 
-## 📌 Featured Projects
+## Currently Learning
 
-### 🌐 [Dynamic Weather Dashboard](https://krushal-weather-dashboard.vercel.app/)
-Real-time weather app with maps & 5-day forecast.  
-**Tech:** JavaScript, HTML, CSS, Leaflet.js, OpenWeather API, Vercel  
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-weather-dashboard.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/dynamic-weather-dashboard)
-
----
-
-### 💼 [Personal Finance Tracker](https://krushal-finance-tracker.vercel.app/)
-Full-stack app with real-time expense tracking & AI insights.  
-**Tech:** Node.js, MongoDB, JavaScript, CSS, Groq API  
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krushal-finance-tracker.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KRUSHAL2956/Finance-Tracker)
+- Advanced **Full-Stack Development** with modern frameworks
+- **Backend architecture** and scalable system design
+- **Database optimization** and performance tuning
+- **API design** (RESTful patterns and best practices)
+- **DevOps fundamentals**: deployment, CI/CD, container basics
+- **Cybersecurity concepts**: XSS, CSRF, SQL Injection, and secure design
 
 ---
 
-### 🔒 Web Vulnerability Scanner (In Progress)
-Python-based scanner for XSS, CSRF, SQLi & form validations.  
-*(Repo link will be added once uploaded)*
+## Selected Projects
+
+### Finance Tracker
+Full-stack personal finance management system with secure authentication and analytics.  
+**Tech:** React, Node.js, Express.js, MongoDB, JWT  
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d9ff?style=flat&logo=vercel&logoColor=white)](https://krushal-finance-tracker.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/KRUSHAL2956/Finance-Tracker)
 
 ---
 
-## 📧 Connect With Me
+### WebSecScanner
+Web security assessment platform for identifying common vulnerabilities.  
+**Tech:** Python, Flask, MongoDB  
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d9ff?style=flat&logo=render&logoColor=white)](https://websec-scanner-qdmo.onrender.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/KRUSHAL2956/WebSecScanner)
+
+---
+
+### Weather Dashboard
+Real-time weather visualization dashboard.  
+**Tech:** HTML, CSS, JavaScript  
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d9ff?style=flat&logo=vercel&logoColor=white)](https://krushal-weather-dashboard.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/KRUSHAL2956/dynamic-weather-dashboard)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krushal-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-hirpara-29y05) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushalhirpara.connect@gmail.com)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KRUSHAL2956&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRUSHAL2956&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -128,9 +121,13 @@ Python-based scanner for XSS, CSRF, SQLi & form validations.
 
 <div align="center">
 
-_"Security is not a product, but a process."_ — **Bruce Schneier**  
+_"Security is not a product, but a process."_ — **Bruce Schneier**
 
-📍 **Feel free to explore my repositories & star anything you like!**  
-**Open to:** Full Stack Development Internships | Web Development Projects | Technical Collaborations
+📍 Feel free to explore my repositories and star anything you find useful.  
+**Open to:** Full-Stack Development Internships • Web Projects • Technical Collaborations  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krushal-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushalhirpara)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushalhirpara.connect@gmail.com)
 
 </div>
