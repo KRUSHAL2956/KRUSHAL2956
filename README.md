@@ -25,22 +25,42 @@ I am a software developer with hands-on experience in **full-stack web developme
 <div align="center">
 
 **Programming Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" title="C"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" title="C++"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" title="Java"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" title="Python"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" title="JavaScript"/>
 
 **Web Development**  
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" title="React"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="45" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" title="Express.js"/>
 
 **Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" title="PostgreSQL"/>
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" title="Bash"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=powershell&theme=dark" height="45" title="PowerShell"/>
 
 </div>
 
 ---
 
 ## Experience
+
+**SDE Intern** — *BlueStock Fintech*  
+Mar 2026 – Present  
+- Currently working as a Software Development Engineer Intern  
 
 **Cyber Security Intern** — *Elevate Labs*  
 Oct 2025 – Dec 2025  
@@ -52,7 +72,7 @@ Aug 2025 – Oct 2025
 - Built responsive UI components with focus on usability and performance  
 
 **Google Student Ambassador** — *Google*  
-Aug 2025 – Jan 2026  
+Aug 2025 – Dec 2025  
 - Led technical workshops and student engagement initiatives  
 
 ---
