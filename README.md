@@ -76,7 +76,7 @@ Building scalable web applications, backend APIs, and AI-powered products with a
 - Integrated a real-time AI advisor using the **Groq API in JSON mode** to deliver Mandi price comparisons and Google Trends insights.
 - Developed asynchronous background schedulers and WebSockets to push live analytics and market signals to the dashboard.
 
-[Source Code](https://github.com/KRUSHAL2956)
+[Live Demo](https://ai-for-artisans.vercel.app/) • [Source Code](https://github.com/KRUSHAL2956/AI-for-Artisans)
 
 ---
 
