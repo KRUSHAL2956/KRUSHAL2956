@@ -109,7 +109,7 @@ Building scalable web applications, backend APIs, and AI-powered products with a
 **Tech:** Python, Flask, Gunicorn, MongoDB, Render
 
 - Built an authenticated vulnerability scanner identifying reflected/stored/DOM XSS, SQL Injection (error/union/boolean/time-based), and CSRF vulnerabilities.
-- Developed a automated crawler that maps target form parameters and attack surfaces prior to executing curated payload sets.
+- Developed an automated crawler that maps target form parameters and attack surfaces prior to executing curated payload sets.
 - Hardened the platform with Flask-WTF CSRF protection, HttpOnly/SameSite cookies, and centralized audit logging.
 
 [Live Demo](https://websec-scanner-qdmo.onrender.com) • [Source Code](https://github.com/KRUSHAL2956/WebSecScanner)
